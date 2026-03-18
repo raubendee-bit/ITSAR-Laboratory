@@ -66,7 +66,7 @@ Browser (port 5500)
 ### 1. Clone the repository
 
 ```powershell
-git clone -b Lab1 https://github.com/raubendee-bit/ITSAR-Laboratory.git
+git clone -b Lab2 https://github.com/raubendee-bit/ITSAR-Laboratory.git
 cd ITSAR-Laboratory
 ```
 
