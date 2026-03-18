@@ -56,8 +56,8 @@ Each layer communicates **only with the layer directly below it**. The API route
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/lab3-business-logic-api.git
-cd lab3-business-logic-api
+git clone -b Lab3 https://github.com/raubendee-bit/ITSAR-Laboratory.git
+cd ITSAR-Laboratory
 
 # 2. Install dependency
 pip install flask
