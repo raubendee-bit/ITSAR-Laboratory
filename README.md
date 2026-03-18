@@ -20,6 +20,3 @@ Lab1/
 - Python / Flask
 - SQLite
 - REST API
-
-```
-
