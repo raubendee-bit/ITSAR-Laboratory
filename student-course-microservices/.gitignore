@@ -1,0 +1,22 @@
+# Environment variables (keep secrets off GitHub)
+.env
+
+# SQLite databases (auto-created on first run)
+*.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test evidence (remove this line if you want to commit it)
+tests/test-evidence.txt
