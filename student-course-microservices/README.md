@@ -53,7 +53,7 @@ Browser (port 5500)
 
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 - [Python 3.9+](https://python.org/downloads/)
 - pip
@@ -61,12 +61,12 @@ Browser (port 5500)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
 ```powershell
-git clone https://github.com/YOUR-USERNAME/student-course-microservices.git
+git clone -b Lab1 https://github.com/raubendee-bit/student-course-microservices.git
 cd student-course-microservices
 ```
 
