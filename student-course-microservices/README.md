@@ -66,8 +66,8 @@ Browser (port 5500)
 ### 1. Clone the repository
 
 ```powershell
-git clone -b Lab1 https://github.com/raubendee-bit/student-course-microservices.git
-cd student-course-microservices
+git clone -b Lab1 https://github.com/raubendee-bit/ITSAR-Laboratory.git
+cd ITSAR-Laboratory
 ```
 
 ### 2. Install dependencies
